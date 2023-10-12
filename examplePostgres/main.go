@@ -11,7 +11,8 @@ func main()  {
 
     if err != nil {
         log.Println(err)
+    }else {
+        log.Println("DB success")        
     }
-    log.Println("DB success")
 }
 

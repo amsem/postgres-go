@@ -6,12 +6,13 @@ import (
 
 	_ "github.com/lib/pq"
 )
+// "am53m*********"
 
 const (
     host = "127.0.0.1"
     port = 5432
     user = "amsem"
-    password = "am53m*********"
+    password = "am53m*********" 
     dbname = "mydb"
 )
 
